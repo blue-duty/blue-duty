@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @blue-duty
-- 👀 I’m interested in golang
-- 🌱 I’m currently learning docker and k8s
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+- 👀 I’m interested in Golang Linux and Play
+- 🌱 I’m currently learning Rust and Frontend
+- 💞️ I’m looking to collaborate on - OpenSource with Everything
+- 📫 How to reach me - lwduty@outlook.com
 
 <!---
 blue-duty/blue-duty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
