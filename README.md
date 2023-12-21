@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blue-duty
 - 👀 I’m interested in Golang Linux and Play
 - 🌱 I’m currently learning Rust and Frontend
-- 💞️ I’m looking to collaborate on - OpenSource with Everything
+- 💞️ I’m looking to collaborate on - OpenSource for everything
 - 📫 How to reach me - lwduty@outlook.com
 
 <!---
